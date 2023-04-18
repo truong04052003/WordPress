@@ -1,6 +1,6 @@
 <?php
 /*
- Plugin Name: ZendVN MyPlugin
+ Plugin Name: ZendVN WidgetAPI
 Plugin URI: http://www.zend.vn
 Description: Tim hieu ve qua trinh chuan xay dung Plugin 10.
 Author: ZendVN group
